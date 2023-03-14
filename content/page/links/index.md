@@ -1,33 +1,23 @@
 ---
-title: Links
+title: Enllaços
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
+
+    website: https://github.com/pgiuli
+    description: Aquí es on es poden trobar tots els repositoris dels meus projectes públics.
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  
+  - title: Instagram
+
+    website: https://instagram.com/pxxgl
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png
+
 menu:
     main: 
         weight: 4
         params:
             icon: link
 
+
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.

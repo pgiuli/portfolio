@@ -1,7 +1,14 @@
 # Uncomment this file to enable multilanguage site support
 
-#[en]
-#languageName = "English"
-#languagedirection = "ltr"
-#title = "Example Site"
-#weight = 1
+[ca]
+languageName = "Català"
+languagedirection = "ltr"
+title = "Pau Giuli"
+weight = 2
+
+[en]
+languageName = "English"
+languagedirection = "ltr"
+title = "Pau Giuli"
+weight = 1
+
